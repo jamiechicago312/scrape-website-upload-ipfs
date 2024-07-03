@@ -1,0 +1,6 @@
+node_modules
+tests
+assets
+.env
+temp
+assignment-instructions.txt
